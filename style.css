@@ -1,0 +1,11 @@
+body{
+    color: white;
+    background-image: url("cool-backgrounds-13.jpg");
+}
+
+.login_div{
+    padding : 10px;
+    border-radius: 15px;
+    float: none;
+    background-color:white;
+}
